@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "QuestWorld: Tamriel",
+    "description": "",
+    "home_page_url": "https://matsuoyutani.github.io/QuestWorld",
+    "feed_url": "https://matsuoyutani.github.io/QuestWorld/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ekobold"
+    },
+    "items": [
+    ]
+}

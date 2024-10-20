@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://matsuoyutani.github.io/QuestWorld/sitemap.xml
